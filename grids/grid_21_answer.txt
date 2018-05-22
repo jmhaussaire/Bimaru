@@ -1,0 +1,10 @@
+P,w,w,w,w,O,w,w,w,2
+X,w,w,w,w,w,w,w,w,1
+X,w,w,w,w,w,w,C,D,3
+U,w,w,w,w,w,w,w,w,1
+w,w,w,w,C,X,D,w,O,4
+w,w,O,w,w,w,w,w,w,1
+P,w,w,w,w,w,w,w,w,1
+X,w,C,D,w,P,w,O,w,5
+U,w,w,w,w,U,w,w,w,2
+7,0,2,1,1,4,1,2,2,-

@@ -1,0 +1,10 @@
+w,w,C,X,D,w,w,w,w,3
+w,w,w,w,w,w,w,w,w,0
+C,X,X,D,w,w,w,C,D,6
+w,w,w,w,w,w,w,w,w,0
+w,w,w,w,O,w,w,w,O,2
+w,P,w,w,w,w,w,w,w,1
+w,U,w,w,w,w,w,P,w,2
+w,w,w,O,w,P,w,X,w,3
+O,w,w,w,w,U,w,U,w,3
+2,3,2,3,2,2,0,4,2,-
